@@ -5,7 +5,7 @@
  
  
 #### Data Preprocessing 
-Przygotowanie danych [opiarte na tym repozytorium](https://github.com/RadhikaRM/Bookrecommendersystem/blob/main/Final_Book_Recommender_System.ipynb)
+Przygotowanie danych [oparte na tym repozytorium](https://github.com/RadhikaRM/Bookrecommendersystem/blob/main/Final_Book_Recommender_System.ipynb)
 Przygotowane dane zostały wyeksportowane do pliku **prepared_data.csv**.
 
 ## Zastosowane zmiany:
