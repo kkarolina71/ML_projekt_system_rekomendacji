@@ -1,9 +1,9 @@
 # ML_projekt_system_rekomendacji
  
  
-** Collaborative Filtering ** - rekomendacje na podstawie ocen i zakupów użytkownika. Gdy dwóch użytkowników kupuje podobne produkty, możemy stwierdzić, że mają zbliżone upodobania i polecać im wzajemnie sprawdzone dla nich artykuły.
+**Collaborative Filtering** - rekomendacje na podstawie ocen i zakupów użytkownika. Gdy dwóch użytkowników kupuje podobne produkty, możemy stwierdzić, że mają zbliżone upodobania i polecać im wzajemnie sprawdzone dla nich artykuły.
  
-** SVD (Singular Value Decomposition) ** - Algorytm ten wykorzystuje metodę faktoryzacji macierzy. Macierz ocen użytkownik-element jest faktoryzowana na macierze użytkowników i elementów o mniejszym wymiarze, składające się z ukrytych czynników (ukrytych cech). Domyślnie liczba czynników ukrytych wynosi 100. Te ukryte czynniki są w stanie uchwycić znane preferencje użytkownika dotyczące oceny elementu, a tym samym są w stanie przewidzieć szacunkową ocenę dla wszystkich par użytkownik-element, w których użytkownik jeszcze nie ocenił elementu
+**[SVD (Singular Value Decomposition)](https://jaketae.github.io/study/svd/)** - Algorytm ten wykorzystuje metodę faktoryzacji macierzy. Macierz ocen użytkownik-element jest faktoryzowana na macierze użytkowników i elementów o mniejszym wymiarze, składające się z ukrytych czynników (ukrytych cech). Domyślnie liczba czynników ukrytych wynosi 100. Te ukryte czynniki są w stanie uchwycić znane preferencje użytkownika dotyczące oceny elementu, a tym samym są w stanie przewidzieć szacunkową ocenę dla wszystkich par użytkownik-element, w których użytkownik jeszcze nie ocenił elementu
  
  
  Pozostałe rzeczy zrobimy w oddzielnym notatniku wczytując przetworzone dane.
