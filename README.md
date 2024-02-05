@@ -24,9 +24,3 @@ Przygotowane dane zostały wyeksportowane do pliku **prepared_data.csv**.
 ## Linki warte przejrzenia:
 * [How to Build a Book Recommendation System](https://www.analyticsvidhya.com/blog/2021/06/build-book-recommendation-system-unsupervised-learning-project/)
 * [Algorytmy rekomendacyjne - przykład implementacji w Pythonie](https://blog.consdata.tech/2018/08/07/algorytmy-rekomendacyjne-przyklad-implementacji-w-pythonie.html)
-
-## Dalsze prace:
-- [EDA](https://www.kaggle.com/code/eyadgk/books-eda-vis-recommendation-systems)
-- [rekomendacja oparta na kraju + implementacja kNN](https://github.com/RadhikaRM/Bookrecommendersystem/blob/main/Final_Book_Recommender_System.ipynb)
-- [wynik wyszukiwania okładka + ocena](https://www.kaggle.com/code/hilalmleykeyuksel/book-recommender)
-- [Collaborative Filtering](https://www.kaggle.com/code/fahadmehfoooz/book-recommendation-system)
